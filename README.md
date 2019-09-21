@@ -1,4 +1,4 @@
-# p5Js-Noicmap-worldgenerator
+# p5Js-Noicemap-worldgenerator
 Using noicemaps and p5JS libary to create simple world generator
 
 Some Screenshots of the generator..
